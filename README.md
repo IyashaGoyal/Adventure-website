@@ -16,3 +16,6 @@ This project is a responsive website for an adventure and travel brand, designed
 ## Technologies Used
 * HTML5: For the structure and content of the website.
 * CSS3: For styling, layout, and responsive design.
+
+![image](https://github.com/user-attachments/assets/9ebd8d5d-cfc1-4c24-833e-5165da37f4b8)
+
